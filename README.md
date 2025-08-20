@@ -23,7 +23,7 @@ For any questions or inquiries, please feel free to reach out to [Raihan](https:
 
 ### Hardware
 
-The hardware powering this project, which will continue to evolve and expand as the home lab advances ![Hardware]()
+The hardware powering this project, which will continue to evolve and expand as the home lab advances ![Hardware](https://github.com/patuyyy/home-lab/blob/main/assets/server-1.jpeg)
 
 - 1 × `Custom PC`  :
     - CPU: `Intel Xeon E5-2680 v4 (14 Core, Cache 35MB)`
