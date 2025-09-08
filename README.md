@@ -23,11 +23,41 @@ For any questions or inquiries, please feel free to reach out to [Raihan](https:
 
 ### Hardware
 
-The hardware powering this project, which will continue to evolve and expand as the home lab advances ![Hardware]()
+The hardware powering this project, which will continue to evolve and expand as the home lab advances ![Hardware](https://github.com/patuyyy/home-lab/blob/main/assets/server-1.jpeg)
 
 - 1 × `Custom PC`  :
     - CPU: `Intel Xeon E5-2680 v4 (14 Core, Cache 35MB)`
     - RAM: `32GB`
     - SSD: `512GB`
     - VGA: `Nvidia Geforce GT610 2GB DDR3`
+
+### IP and Domain
+I have a public IP address and a custom domain configured for this server.
+Domain: patuyyy.com
+DNS Management: Handled via Cloudflare
+
+### Features
+
+- [x] Proxmox based virtualization for host
+- [x] Server and Network monitoring with Zabbix and Grafana
+- [x] Network simulation application: PNetlab and GNS3
+- [x] Reverse proxy with NGINX
+- [x] VPN access (OpenVPN and Wireguard)
+- [x] Media management (Jellyfin)
+- [x] Ansible automation
+- [x] HTTPS certificate management for all services using Let's Encrypt
+
+
+| Proxmox Virtual Environtment                                                                                    |
+| :--:                                                                                                            |
+| ![Proxmox](https://github.com/patuyyy/home-lab/blob/main/assets/proxmox.png)                                    |
+
+| Monitoring dashboard powered by [Grafana](https://grafana.com)                                                  |
+| ![grafana](https://github.com/patuyyy/home-lab/blob/main/assets/grafana.png)                                    |
+
+| VPN access by [Wireguard](https://www.wireguard.com)                                                            |
+| ![wireguard][https://github.com/patuyyy/home-lab/blob/main/assets/wireguard.png]                                |
+
+| Jellyfin media system                                                                                           |
+| ![jellyfin][https://github.com/patuyyy/home-lab/blob/main/assets/jellyfin.png]                                  |
 
