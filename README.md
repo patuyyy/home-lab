@@ -54,7 +54,7 @@ DNS Management: Handled via Cloudflare
 | Monitoring dashboard powered by [Grafana](https://grafana.com)                                                  |
 | ![grafana](https://github.com/patuyyy/home-lab/blob/main/assets/grafana.png)                                    |
 | VPN access by [Wireguard](https://www.wireguard.com)                                                            |
-| ![wireguard][https://github.com/patuyyy/home-lab/blob/main/assets/wireguard.png]                                |
+| ![wireguard](https://github.com/patuyyy/home-lab/blob/main/assets/wireguard.png)                                |
 | Jellyfin media system                                                                                           |
-| ![jellyfin][https://github.com/patuyyy/home-lab/blob/main/assets/jellyfin.png]                                  |
+| ![jellyfin](https://github.com/patuyyy/home-lab/blob/main/assets/jellyfin.png)                                  |
 
