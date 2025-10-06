@@ -36,6 +36,25 @@ I have a public IP address and a custom domain configured for this server.
 Domain: patuyyy.com
 DNS Management: Handled via Cloudflare
 
+### Main Operating System
+
+I am currently running several different operating systems inside my Proxmox virtual machines.  
+Most of them are Linux-based distributions, since I use this homelab mainly for learning, experimenting,  
+and testing different environments.  
+
+Here’s the list of OS that I’ve already deployed as Virtual Machines:
+
+- **Ubuntu Server 24.04 LTS (Live Server)** → mainly for backend services, lightweight and stable.
+- **AlmaLinux 9.2** → I use this for testing enterprise-grade Linux since it’s commonly used in production.
+- **Ubuntu Desktop 24.04** → a GUI-based Linux VM that I use for desktop-related tasks and experiments.
+- **Kali Linux** → security testing, penetration testing, and exploring cybersecurity tools.  
+
+In the future, I plan to add more operating systems such as **Windows Server**, **Debian**, or even  
+network-focused appliances (like **pfSense** or **VyOS**) to expand my homelab setup.  
+
+This collection of VMs helps me to practice DevOps, networking, and security skills in a real-world-like environment.
+
+
 ### Features
 
 - [x] Proxmox based virtualization for host
@@ -46,7 +65,7 @@ DNS Management: Handled via Cloudflare
 - [x] Media management (Jellyfin)
 - [x] Ansible automation
 - [x] HTTPS certificate management for all services using Let's Encrypt
-
+- [x] DNS server with Bind9
 
 | Proxmox Virtual Environtment                                                                                    |
 | :--:                                                                                                            |
